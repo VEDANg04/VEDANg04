@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VEDANg04
+- 👋🏼 Hi, I’m @VEDANg04
 - 👀 I’m interested in Game Developing | Software Developing | Bug Fixing 
 - 🌱 I’m currently learning C C#
 - 💞️ I’m looking to collaborate on Startups 
