@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m @VEDANg04
 - 👀 I’m interested in Game Developing | Software Developing | Bug Fixing 
-- 🌱 I’m currently learning C C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Startups 
 - 📫 How to reach me vedangkimmatkar04@gmail.com
 
