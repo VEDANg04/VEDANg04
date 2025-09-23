@@ -1,10 +1,21 @@
-- 👋🏼 Hi, I’m @VEDANg04
-- 👀 I’m interested in Game Developing | Software Developing | Bug Fixing 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Startups 
-- 📫 How to reach me vedangkimmatkar04@gmail.com
+# Hi, I’m VEDANg 👋
 
-<!---
-VEDANg04/VEDANg04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Computer Science student currently pursuing my bachelor's degree. I enjoy exploring new technologies and solving problems through coding.
+
+My favorite programming language is **Python**, and I love using it to build projects and improve my skills.
+
+## About Me
+
+* 🎓 Bachelor’s student in Computer Science
+* 🐍 Passionate about Python programming
+* 🌱 Always learning new concepts and tools
+* 💻 Interested in software development, algorithms, and data science
+* 📫 Reach me at: vedangkimmatkar04@gmail.com
+
+## Skills
+
+* **Languages:** Python, Pandas, Numpy
+* **Tools:** Git, VS Code, Emacs
+* **Currently Learning:** Machine learning
+
+Thanks for visiting my profile!
